@@ -1,1 +1,3 @@
 This is an example!
+
+This are just word for practicing git in Vs Code!
